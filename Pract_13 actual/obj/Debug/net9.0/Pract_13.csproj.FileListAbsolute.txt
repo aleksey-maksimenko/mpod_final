@@ -1,0 +1,34 @@
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13\bin\Debug\net9.0\Pract_13.exe
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13\bin\Debug\net9.0\Pract_13.deps.json
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13\bin\Debug\net9.0\Pract_13.runtimeconfig.json
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13\bin\Debug\net9.0\Pract_13.dll
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13\bin\Debug\net9.0\Pract_13.pdb
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13\bin\Debug\net9.0\HtmlAgilityPack.dll
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13\obj\Debug\net9.0\Pract_13.csproj.AssemblyReference.cache
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13\obj\Debug\net9.0\Pract_13.GeneratedMSBuildEditorConfig.editorconfig
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13\obj\Debug\net9.0\Pract_13.AssemblyInfoInputs.cache
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13\obj\Debug\net9.0\Pract_13.AssemblyInfo.cs
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13\obj\Debug\net9.0\Pract_13.csproj.CoreCompileInputs.cache
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13\obj\Debug\net9.0\Pract_13.csproj.Up2Date
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13\obj\Debug\net9.0\Pract_13.dll
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13\obj\Debug\net9.0\refint\Pract_13.dll
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13\obj\Debug\net9.0\Pract_13.pdb
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13\obj\Debug\net9.0\Pract_13.genruntimeconfig.cache
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13\obj\Debug\net9.0\ref\Pract_13.dll
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13 actual\bin\Debug\net9.0\Pract_13.exe
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13 actual\bin\Debug\net9.0\Pract_13.deps.json
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13 actual\bin\Debug\net9.0\Pract_13.runtimeconfig.json
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13 actual\bin\Debug\net9.0\Pract_13.dll
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13 actual\bin\Debug\net9.0\Pract_13.pdb
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13 actual\bin\Debug\net9.0\HtmlAgilityPack.dll
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13 actual\obj\Debug\net9.0\Pract_13.csproj.AssemblyReference.cache
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13 actual\obj\Debug\net9.0\Pract_13.GeneratedMSBuildEditorConfig.editorconfig
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13 actual\obj\Debug\net9.0\Pract_13.AssemblyInfoInputs.cache
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13 actual\obj\Debug\net9.0\Pract_13.AssemblyInfo.cs
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13 actual\obj\Debug\net9.0\Pract_13.csproj.CoreCompileInputs.cache
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13 actual\obj\Debug\net9.0\Pract_13.csproj.Up2Date
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13 actual\obj\Debug\net9.0\Pract_13.dll
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13 actual\obj\Debug\net9.0\refint\Pract_13.dll
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13 actual\obj\Debug\net9.0\Pract_13.pdb
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13 actual\obj\Debug\net9.0\Pract_13.genruntimeconfig.cache
+E:\stud\Методы параллельной ОД\pract 13 (final)\Pract_13 actual\obj\Debug\net9.0\ref\Pract_13.dll
